@@ -6,10 +6,6 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-import okhttp3.OkHttpClient;
-import okhttp3.Request;
-import okhttp3.Response;
-
 public class GeraGet {
 	
 	private final String USER_AGENT = "Mozilla/5.0";
